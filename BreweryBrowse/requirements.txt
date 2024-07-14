@@ -1,9 +1,0 @@
-requirements_content = """
-Flask==2.0.3
-Flask-SQLAlchemy==2.5.1
-Flask-Migrate==3.1.0
-marshmallow==3.14.1
-requests==2.26.0
-Werkzeug==2.0.3
-PyJWT==2.3.0
-"""
